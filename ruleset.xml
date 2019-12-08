@@ -51,7 +51,7 @@
     <!-- All PHP files MUST use the Unix LF (linefeed) line ending. -->
     <rule ref="Generic.Files.LineEndings">
     <properties>
-     <property name="eolChar" value="\n"/>
+        <property name="eolChar" value="\n"/>
     </properties>
     </rule>
     <!-- 2.3 Lines -->
