@@ -1,6 +1,6 @@
 {
     "description": "WayoxMedia PHP Coding Standard",
-    "name": "php-coding-standard",
+    "name": "walkovik/php-coding-standard",
     "type": "library",
     "version": "1.0.4"
 }
