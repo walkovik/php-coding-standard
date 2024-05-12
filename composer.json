@@ -1,6 +1,6 @@
 {
     "description": "WayoxMedia PHP Coding Standard",
-    "name": "util/php-coding-standard",
-    "type": "config",
-    "version": "1.0.3"
+    "name": "php-coding-standard",
+    "type": "library",
+    "version": "1.0.4"
 }
